@@ -24,13 +24,13 @@ repository               : "baichabiaou/baichabiaou.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Aicha Biaou"
+  pronouns         : "she/her"  
+  bio              : "PhD Candidate in Soil Science"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Oklahoma State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Aicha.biaou@okstate.edu" 
 
   # Academic websites
   academia         : # URL
